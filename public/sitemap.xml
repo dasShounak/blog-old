@@ -2,6 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://shounakdas.netlify.app/cattrapped/</loc>
+    <lastmod>2023-03-07T21:29:04+05:30</lastmod>
+  </url><url>
+    <loc>https://shounakdas.netlify.app/tags/project/</loc>
+    <lastmod>2023-03-07T21:29:04+05:30</lastmod>
+  </url><url>
+    <loc>https://shounakdas.netlify.app/</loc>
+    <lastmod>2023-03-07T21:29:04+05:30</lastmod>
+  </url><url>
+    <loc>https://shounakdas.netlify.app/tags/</loc>
+    <lastmod>2023-03-07T21:29:04+05:30</lastmod>
+  </url><url>
     <loc>https://shounakdas.netlify.app/contact/</loc>
     <lastmod>2023-03-07T09:42:58+05:30</lastmod>
   </url><url>
@@ -17,15 +29,10 @@
     <loc>https://shounakdas.netlify.app/posts/</loc>
     <lastmod>2023-03-07T09:30:34+05:30</lastmod>
   </url><url>
-    <loc>https://shounakdas.netlify.app/</loc>
-    <lastmod>2023-03-07T09:30:34+05:30</lastmod>
-  </url><url>
     <loc>https://shounakdas.netlify.app/authors/</loc>
   </url><url>
     <loc>https://shounakdas.netlify.app/categories/</loc>
   </url><url>
     <loc>https://shounakdas.netlify.app/series/</loc>
-  </url><url>
-    <loc>https://shounakdas.netlify.app/tags/</loc>
   </url>
 </urlset>
