@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Shounak Das</title>
-    <link>http://example.org/posts/</link>
+    <link>https://shounakdas.netlify.app/posts/</link>
     <description>Recent content in Posts on Shounak Das</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 07 Mar 2023 09:30:34 +0530</lastBuildDate><atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 07 Mar 2023 09:30:34 +0530</lastBuildDate><atom:link href="https://shounakdas.netlify.app/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>First post</title>
-      <link>http://example.org/posts/first-post/</link>
+      <link>https://shounakdas.netlify.app/posts/first-post/</link>
       <pubDate>Tue, 07 Mar 2023 09:30:34 +0530</pubDate>
       
-      <guid>http://example.org/posts/first-post/</guid>
+      <guid>https://shounakdas.netlify.app/posts/first-post/</guid>
       <description>Hello! Link to heading This is my first post on my personal blog. I have tried different blogging platforms in the past but having your own space is different. Let&amp;rsquo;s see how it goes. Stay tuned.
 84ck_783_914n37</description>
     </item>

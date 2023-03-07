@@ -2,30 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://example.org/contact/</loc>
+    <loc>https://shounakdas.netlify.app/contact/</loc>
     <lastmod>2023-03-07T09:42:58+05:30</lastmod>
   </url><url>
-    <loc>http://example.org/projects/</loc>
+    <loc>https://shounakdas.netlify.app/projects/</loc>
     <lastmod>2023-03-07T09:39:17+05:30</lastmod>
   </url><url>
-    <loc>http://example.org/about/</loc>
+    <loc>https://shounakdas.netlify.app/about/</loc>
     <lastmod>2023-03-07T09:36:45+05:30</lastmod>
   </url><url>
-    <loc>http://example.org/posts/first-post/</loc>
+    <loc>https://shounakdas.netlify.app/posts/first-post/</loc>
     <lastmod>2023-03-07T09:30:34+05:30</lastmod>
   </url><url>
-    <loc>http://example.org/posts/</loc>
+    <loc>https://shounakdas.netlify.app/posts/</loc>
     <lastmod>2023-03-07T09:30:34+05:30</lastmod>
   </url><url>
-    <loc>http://example.org/</loc>
+    <loc>https://shounakdas.netlify.app/</loc>
     <lastmod>2023-03-07T09:30:34+05:30</lastmod>
   </url><url>
-    <loc>http://example.org/authors/</loc>
+    <loc>https://shounakdas.netlify.app/authors/</loc>
   </url><url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://shounakdas.netlify.app/categories/</loc>
   </url><url>
-    <loc>http://example.org/series/</loc>
+    <loc>https://shounakdas.netlify.app/series/</loc>
   </url><url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://shounakdas.netlify.app/tags/</loc>
   </url>
 </urlset>
