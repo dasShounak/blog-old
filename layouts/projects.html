@@ -1,0 +1,31 @@
+{{ define "main" }}
+{{- block "main" . }}
+    <main id="main" class="site-main">
+        {{- .Content }}
+    </main>
+{{- end }}
+{{ end }}
+
+{{ define "title" }}{{ .Title }}{{ end }}
+
+{{ define "meta-description" }}{{ .Params.description }}{{ end }}
+
+{{ define "meta-image" }}{{ .Params.image }}{{ end }}
+
+{{ define "head" }}{{ partial "head.html" . }}{{ end }}
+
+{{ define "header" }}{{ partial "header.html" . }}{{ end }}
+
+{{ range .Site.RegularPages.ByTitle }}
+    {{ if (in .Params.tags "project") }}
+        <article class="post type-post status-publish format-standard hentry">
+            <header class="entry-header">
+                <h2 class="entry-title"><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+            </header>
+            <div class="entry-content">
+                {{ .Summary }}
+            </div>
+        </article>
+    {{ end }}
+{{ end }}
+

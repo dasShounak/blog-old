@@ -1,0 +1,12 @@
+{{ define "main" }}
+  <div class="post-list post-list-project">
+    {{ range $index, $page := (where .Site.RegularPages "Type" "page") }}
+      {{ range $index, $tag := .Params.tags }}
+        {{ if eq $tag "project" }}
+          {{ partial "card.html" . }}
+        {{ end }}
+      {{ end }}
+    {{ end }}
+  </div>
+{{ end }}
+
