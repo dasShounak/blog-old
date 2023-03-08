@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Shounak Das</title>
+    <link>https://shounakdas.netlify.app/projects/</link>
+    <description>Recent content in Projects on Shounak Das</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 08 Mar 2023 04:27:58 +0530</lastBuildDate><atom:link href="https://shounakdas.netlify.app/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My Project</title>
+      <link>https://shounakdas.netlify.app/projects/my-project/</link>
+      <pubDate>Wed, 08 Mar 2023 04:27:58 +0530</pubDate>
+      
+      <guid>https://shounakdas.netlify.app/projects/my-project/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla convallis ultrices risus non maximus. Suspendisse et magna ac libero hendrerit consectetur sit amet vel quam. Quisque aliquet libero a nulla faucibus, vel ullamcorper lectus cursus. Aenean consectetur sapien quis eros scelerisque, vel eleifend ex imperdiet. In vitae ultricies quam, non elementum mauris. Aliquam porttitor, nunc a maximus eleifend, nunc ipsum feugiat mi, at imperdiet turpis nunc quis leo. Vestibulum rutrum lacus eget arcu commodo auctor.</description>
+    </item>
+    
+  </channel>
+</rss>
