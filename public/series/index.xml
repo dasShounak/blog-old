@@ -5,6 +5,16 @@
     <link>https://shounakdas.netlify.app/series/</link>
     <description>Recent content in Series on Shounak Das</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://shounakdas.netlify.app/series/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Fri, 17 Nov 2023 10:34:16 +0000</lastBuildDate><atom:link href="https://shounakdas.netlify.app/series/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>NetworkProgramminInCPP</title>
+      <link>https://shounakdas.netlify.app/series/networkprogramminincpp/</link>
+      <pubDate>Fri, 17 Nov 2023 10:34:16 +0000</pubDate>
+      
+      <guid>https://shounakdas.netlify.app/series/networkprogramminincpp/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

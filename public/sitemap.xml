@@ -2,6 +2,54 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://shounakdas.netlify.app/tags/c/</loc>
+    <lastmod>2023-11-17T10:34:16+00:00</lastmod>
+  </url><url>
+    <loc>https://shounakdas.netlify.app/tags/c&#43;&#43;/</loc>
+    <lastmod>2023-11-17T10:34:16+00:00</lastmod>
+  </url><url>
+    <loc>https://shounakdas.netlify.app/posts/2023-11-17-network-programming-basics-in-c-c/</loc>
+    <lastmod>2023-11-17T10:34:16+00:00</lastmod>
+  </url><url>
+    <loc>https://shounakdas.netlify.app/tags/networking/</loc>
+    <lastmod>2023-11-17T10:34:16+00:00</lastmod>
+  </url><url>
+    <loc>https://shounakdas.netlify.app/series/networkprogramminincpp/</loc>
+    <lastmod>2023-11-17T10:34:16+00:00</lastmod>
+  </url><url>
+    <loc>https://shounakdas.netlify.app/posts/</loc>
+    <lastmod>2023-11-17T10:34:16+00:00</lastmod>
+  </url><url>
+    <loc>https://shounakdas.netlify.app/tags/programming/</loc>
+    <lastmod>2023-11-17T10:34:16+00:00</lastmod>
+  </url><url>
+    <loc>https://shounakdas.netlify.app/series/</loc>
+    <lastmod>2023-11-17T10:34:16+00:00</lastmod>
+  </url><url>
+    <loc>https://shounakdas.netlify.app/</loc>
+    <lastmod>2023-11-17T10:34:16+00:00</lastmod>
+  </url><url>
+    <loc>https://shounakdas.netlify.app/tags/sockets/</loc>
+    <lastmod>2023-11-17T10:34:16+00:00</lastmod>
+  </url><url>
+    <loc>https://shounakdas.netlify.app/tags/</loc>
+    <lastmod>2023-11-17T10:34:16+00:00</lastmod>
+  </url><url>
+    <loc>https://shounakdas.netlify.app/tags/tcp/</loc>
+    <lastmod>2023-11-17T10:34:16+00:00</lastmod>
+  </url><url>
+    <loc>https://shounakdas.netlify.app/tags/cli/</loc>
+    <lastmod>2023-03-19T15:36:26+00:00</lastmod>
+  </url><url>
+    <loc>https://shounakdas.netlify.app/tags/open-source/</loc>
+    <lastmod>2023-03-19T15:36:26+00:00</lastmod>
+  </url><url>
+    <loc>https://shounakdas.netlify.app/tags/rust/</loc>
+    <lastmod>2023-03-19T15:36:26+00:00</lastmod>
+  </url><url>
+    <loc>https://shounakdas.netlify.app/posts/2023-03-19-wasted-3-hours-to-save-3-keystrokes/</loc>
+    <lastmod>2023-03-19T15:36:26+00:00</lastmod>
+  </url><url>
     <loc>https://shounakdas.netlify.app/projects/</loc>
     <lastmod>2023-03-08T15:48:04+05:30</lastmod>
   </url><url>
@@ -14,18 +62,8 @@
     <loc>https://shounakdas.netlify.app/posts/first-post/</loc>
     <lastmod>2023-03-07T09:30:34+05:30</lastmod>
   </url><url>
-    <loc>https://shounakdas.netlify.app/posts/</loc>
-    <lastmod>2023-03-07T09:30:34+05:30</lastmod>
-  </url><url>
-    <loc>https://shounakdas.netlify.app/</loc>
-    <lastmod>2023-03-07T09:30:34+05:30</lastmod>
-  </url><url>
     <loc>https://shounakdas.netlify.app/authors/</loc>
   </url><url>
     <loc>https://shounakdas.netlify.app/categories/</loc>
-  </url><url>
-    <loc>https://shounakdas.netlify.app/series/</loc>
-  </url><url>
-    <loc>https://shounakdas.netlify.app/tags/</loc>
   </url>
 </urlset>

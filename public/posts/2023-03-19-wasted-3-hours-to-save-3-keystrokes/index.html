@@ -1,0 +1,257 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>
+  Wasted 3 hours to save 3 keystrokes · Shounak Das
+</title>
+    <meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="color-scheme" content="light dark">
+
+
+<meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests; block-all-mixed-content; default-src 'self'; child-src 'self'; font-src 'self' https://fonts.gstatic.com https://cdn.jsdelivr.net/; form-action 'self'; frame-src 'self' https://www.youtube.com; img-src 'self'; object-src 'none'; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com/ https://cdn.jsdelivr.net/; script-src 'self' 'unsafe-inline' https://www.google-analytics.com https://cdn.jsdelivr.net/ https://identity.netlify.com/; prefetch-src 'self'; connect-src 'self' https://www.google-analytics.com;">
+
+
+
+
+<meta name="author" content="Shounak Das">
+<meta name="description" content="I am building a command line tool using rust to save a couple of redundant keystrokes. But in the process, I wasted 3 hours, in a productive way.">
+<meta name="keywords" content="blog,developer,personal,hacker,ethical hacker,cybersecurity,security,hacking,penetration testing,develop,code,programming,coder,coding,developer blog,tech,technology,hacker mindset,how to hack,beginner,junior hacker,hack the world,hacking is an art,blue team,red team,forensics,hackthebox,tryhackme,tryhackme blog,htb,srm,srm university,cyber security,mobile security,social engineering,reconnaissance,information gathering,tcm">
+
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="Wasted 3 hours to save 3 keystrokes"/>
+<meta name="twitter:description" content="I am building a command line tool using rust to save a couple of redundant keystrokes. But in the process, I wasted 3 hours, in a productive way."/>
+
+<meta property="og:title" content="Wasted 3 hours to save 3 keystrokes" />
+<meta property="og:description" content="I am building a command line tool using rust to save a couple of redundant keystrokes. But in the process, I wasted 3 hours, in a productive way." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://shounakdas.netlify.app/posts/2023-03-19-wasted-3-hours-to-save-3-keystrokes/" /><meta property="article:section" content="posts" />
+<meta property="article:published_time" content="2023-03-19T15:36:26+00:00" />
+<meta property="article:modified_time" content="2023-03-19T15:36:26+00:00" />
+
+
+
+
+
+<link rel="canonical" href="https://shounakdas.netlify.app/posts/2023-03-19-wasted-3-hours-to-save-3-keystrokes/">
+
+
+<link rel="preload" href="/fonts/forkawesome-webfont.woff2?v=1.2.0" as="font" type="font/woff2" crossorigin>
+
+
+  
+  
+  <link rel="stylesheet" href="/css/coder.min.0669b62fc2c181a12a4ba10be9984e385c9a5e83dc7cb7ae3759ad0b98d7e8b2.css" integrity="sha256-Bmm2L8LBgaEqS6EL6ZhOOFyaXoPcfLeuN1mtC5jX6LI=" crossorigin="anonymous" media="screen" />
+
+
+
+
+
+
+  
+    
+    
+    <link rel="stylesheet" href="/css/coder-dark.min.f6534b0b446b75d9b6ad77a97d43ede2ddaeff1b6e2361fb7198d6f8fcb7f83f.css" integrity="sha256-9lNLC0Rrddm2rXepfUPt4t2u/xtuI2H7cZjW&#43;Py3&#43;D8=" crossorigin="anonymous" media="screen" />
+  
+
+
+
+ 
+
+
+
+
+<link rel="icon" type="image/png" href="/images/favicon-32x32.png" sizes="32x32">
+<link rel="icon" type="image/png" href="/images/favicon-16x16.png" sizes="16x16">
+
+<link rel="apple-touch-icon" href="/images/apple-touch-icon.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">
+
+<link rel="manifest" href="/site.webmanifest">
+<link rel="mask-icon" href="/images/safari-pinned-tab.svg" color="#5bbad5">
+
+
+
+
+<meta name="generator" content="Hugo 0.92.2" />
+
+
+<script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+
+
+  </head>
+
+
+
+
+
+
+<body class="preload-transitions colorscheme-dark">
+  
+<div class="float-container">
+    <a id="dark-mode-toggle" class="colorscheme-toggle">
+        <i class="fa fa-adjust fa-fw" aria-hidden="true"></i>
+    </a>
+</div>
+
+
+  <main class="wrapper">
+    <nav class="navigation">
+  <section class="container">
+    <a class="navigation-title" href="/">
+      Shounak Das
+    </a>
+    
+      <input type="checkbox" id="menu-toggle" />
+      <label class="menu-button float-right" for="menu-toggle">
+        <i class="fa fa-bars fa-fw" aria-hidden="true"></i>
+      </label>
+      <ul class="navigation-list">
+        
+          
+            <li class="navigation-item">
+              <a class="navigation-link" href="/about/">About</a>
+            </li>
+          
+            <li class="navigation-item">
+              <a class="navigation-link" href="/posts/">Blog</a>
+            </li>
+          
+            <li class="navigation-item">
+              <a class="navigation-link" href="/projects/">Projects</a>
+            </li>
+          
+            <li class="navigation-item">
+              <a class="navigation-link" href="/contact/">Contact me</a>
+            </li>
+          
+        
+        
+      </ul>
+    
+  </section>
+</nav>
+
+
+    <div class="content">
+      
+  <section class="container post">
+    <article>
+      <header>
+        <div class="post-title">
+          <h1 class="title">
+            <a class="title-link" href="https://shounakdas.netlify.app/posts/2023-03-19-wasted-3-hours-to-save-3-keystrokes/">
+              Wasted 3 hours to save 3 keystrokes
+            </a>
+          </h1>
+        </div>
+        <div class="post-meta">
+          <div class="date">
+            <span class="posted-on">
+              <i class="fa fa-calendar" aria-hidden="true"></i>
+              <time datetime="2023-03-19T15:36:26Z">
+                March 19, 2023
+              </time>
+            </span>
+            <span class="reading-time">
+              <i class="fa fa-clock-o" aria-hidden="true"></i>
+              3-minute read
+            </span>
+          </div>
+          
+          
+          <div class="tags">
+  <i class="fa fa-tag" aria-hidden="true"></i>
+    <span class="tag">
+      <a href="/tags/rust/">rust</a>
+    </span>
+      <span class="separator">•</span>
+    <span class="tag">
+      <a href="/tags/cli/">cli</a>
+    </span>
+      <span class="separator">•</span>
+    <span class="tag">
+      <a href="/tags/open-source/">open-source</a>
+    </span></div>
+
+        </div>
+      </header>
+
+      <div class="post-content">
+        
+        <p>It was a nice Sunday afternoon when I realized that my mid-semester exams are starting from this Friday. So, I decided to start studying, and fired up Google Classroom on the good old Firefox. As always, I was signed out of my college Gmail account (they do this every 15 minutes or so). After 3 or 4 attempts, I was able to guess the password. Then I spent the next 10 minutes trying to decide which subject to pick, as usual.</p>
+<p>After much struggle, I chose Operating Systems. I like the subject, as long as I don&rsquo;t have to study it for the exams. Today, I started with process synchronization — critical section, producer-consumer problems and all those stuffs. Whenever I study something new, I always try to visualize stuff and try out things on my own. I like to see the results myself rather than reading the books. It&rsquo;s always easier to understand and remember things when you try it yourself, especially if you have a weak memory like me (or a weak urge to memorize, I don&rsquo;t know which one I have, honestly).</p>
+<p>So there I was, trying to understand Peterson&rsquo;s solution. As usual, my brain ordered me to open ChatGPT in a new tab and look up for a code to demonstrate this algorithm. ChatGPT spit out some 10 lines of Python code. <em>Et voilà!</em> My miserable brain was able to interpret the algorithm. Now was the time to write the code on my own, and tweak with it. But, since I am learning Rust at the moment, I thought how about I rewrite the Python code in Rust and see how it goes. It would be a good beginner project, wouldn&rsquo;t it? Just when I was about to create the new rust project, another nice idea struck my mind. I created a GitHub repo where I will put all my rust projects. So I created a new local directory, where I would copy all the <code>main.rs</code> from different projects and rename them. This is where the 3 long hours started. Copying a file to a new location, then <code>cd</code>-ing into that location, and then renaming the file using <code>mv</code> is a long process. And I do not want to repeat the same steps every time. The solution? I decided to make a command-line tool in rust.</p>
+<p>It&rsquo;s an easy job, but the only problem is that I don&rsquo;t know rust that well. So, I had to read the docs thoroughly to get an idea of how to do it. All this doc-reading took me more than 3 hours, and I am yet to start building the actual thing! XD</p>
+<p>Well, that&rsquo;s it for today. I will write another article on how I made the tool in a day or two. Over and out.</p>
+<p><em>84ck_783_914n37</em></p>
+
+      </div>
+
+
+      <footer>
+        
+
+
+        
+        
+        
+        
+      </footer>
+    </article>
+
+    
+  </section>
+
+    </div>
+
+    <footer class="footer">
+  <section class="container">
+    ©
+    
+    2023
+     Shounak Das 
+    
+    
+    
+  </section>
+</footer>
+
+  </main>
+
+  
+
+  
+  
+  <script src="/js/coder.min.369d90111ae4409b4e51de5efd23a46b92663fcc82dc9a0efde7f70bffc3f949.js" integrity="sha256-Np2QERrkQJtOUd5e/SOka5JmP8yC3JoO/ef3C//D&#43;Uk="></script>
+  
+
+  
+
+  
+
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+</body>
+
+</html>

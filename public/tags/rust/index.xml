@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>rust on Shounak Das</title>
+    <link>https://shounakdas.netlify.app/tags/rust/</link>
+    <description>Recent content in rust on Shounak Das</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 19 Mar 2023 15:36:26 +0000</lastBuildDate><atom:link href="https://shounakdas.netlify.app/tags/rust/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Wasted 3 hours to save 3 keystrokes</title>
+      <link>https://shounakdas.netlify.app/posts/2023-03-19-wasted-3-hours-to-save-3-keystrokes/</link>
+      <pubDate>Sun, 19 Mar 2023 15:36:26 +0000</pubDate>
+      
+      <guid>https://shounakdas.netlify.app/posts/2023-03-19-wasted-3-hours-to-save-3-keystrokes/</guid>
+      <description>It was a nice Sunday afternoon when I realized that my mid-semester exams are starting from this Friday. So, I decided to start studying, and fired up Google Classroom on the good old Firefox. As always, I was signed out of my college Gmail account (they do this every 15 minutes or so). After 3 or 4 attempts, I was able to guess the password. Then I spent the next 10 minutes trying to decide which subject to pick, as usual.</description>
+    </item>
+    
+  </channel>
+</rss>

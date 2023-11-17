@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>tcp on Shounak Das</title>
+    <link>https://shounakdas.netlify.app/tags/tcp/</link>
+    <description>Recent content in tcp on Shounak Das</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 17 Nov 2023 10:34:16 +0000</lastBuildDate><atom:link href="https://shounakdas.netlify.app/tags/tcp/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Network Programming Basics in C/C&#43;&#43;</title>
+      <link>https://shounakdas.netlify.app/posts/2023-11-17-network-programming-basics-in-c-c/</link>
+      <pubDate>Fri, 17 Nov 2023 10:34:16 +0000</pubDate>
+      
+      <guid>https://shounakdas.netlify.app/posts/2023-11-17-network-programming-basics-in-c-c/</guid>
+      <description>If you are here, I assume you are familiar with the terms &amp;ldquo;network programming&amp;rdquo; and &amp;ldquo;socket programming&amp;rdquo;. FYI, both these terms are used interchangeably as they are related concepts. Socket programming is a specific subset of network programming that focusses on communication between devices on different networks. It generally deals with the establishment, maintenance and termination of connections between applications. On the other hand, network programming is a much broader concept.</description>
+    </item>
+    
+  </channel>
+</rss>

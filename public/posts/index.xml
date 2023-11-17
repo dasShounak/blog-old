@@ -6,14 +6,32 @@
     <description>Recent content in Posts on Shounak Das</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 07 Mar 2023 09:30:34 +0530</lastBuildDate><atom:link href="https://shounakdas.netlify.app/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 17 Nov 2023 10:34:16 +0000</lastBuildDate><atom:link href="https://shounakdas.netlify.app/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Network Programming Basics in C/C&#43;&#43;</title>
+      <link>https://shounakdas.netlify.app/posts/2023-11-17-network-programming-basics-in-c-c/</link>
+      <pubDate>Fri, 17 Nov 2023 10:34:16 +0000</pubDate>
+      
+      <guid>https://shounakdas.netlify.app/posts/2023-11-17-network-programming-basics-in-c-c/</guid>
+      <description>If you are here, I assume you are familiar with the terms &amp;ldquo;network programming&amp;rdquo; and &amp;ldquo;socket programming&amp;rdquo;. FYI, both these terms are used interchangeably as they are related concepts. Socket programming is a specific subset of network programming that focusses on communication between devices on different networks. It generally deals with the establishment, maintenance and termination of connections between applications. On the other hand, network programming is a much broader concept.</description>
+    </item>
+    
+    <item>
+      <title>Wasted 3 hours to save 3 keystrokes</title>
+      <link>https://shounakdas.netlify.app/posts/2023-03-19-wasted-3-hours-to-save-3-keystrokes/</link>
+      <pubDate>Sun, 19 Mar 2023 15:36:26 +0000</pubDate>
+      
+      <guid>https://shounakdas.netlify.app/posts/2023-03-19-wasted-3-hours-to-save-3-keystrokes/</guid>
+      <description>It was a nice Sunday afternoon when I realized that my mid-semester exams are starting from this Friday. So, I decided to start studying, and fired up Google Classroom on the good old Firefox. As always, I was signed out of my college Gmail account (they do this every 15 minutes or so). After 3 or 4 attempts, I was able to guess the password. Then I spent the next 10 minutes trying to decide which subject to pick, as usual.</description>
+    </item>
+    
     <item>
       <title>First post</title>
       <link>https://shounakdas.netlify.app/posts/first-post/</link>
       <pubDate>Tue, 07 Mar 2023 09:30:34 +0530</pubDate>
       
       <guid>https://shounakdas.netlify.app/posts/first-post/</guid>
-      <description>Hello! Link to heading This is my first post on my personal blog. I have tried different blogging platforms in the past but having your own space is different. Let&amp;rsquo;s see how it goes. Stay tuned.
+      <description>Hello!  Link to heading   This is my first post on my personal blog. I have tried different blogging platforms in the past but having your own space is different. Let&amp;rsquo;s see how it goes. Stay tuned.
 84ck_783_914n37</description>
     </item>
     
