@@ -1,5 +1,5 @@
 ---
-title: Network Programming Basics in C/C++
+title: "Demystifying Network Programming in C/C++: A Practical Guide"
 date: 2023-11-17T10:34:16.782Z
 description: Understanding network programming in C/C++ through a TCP client-server program
 tags:
@@ -11,7 +11,7 @@ tags:
   - sockets
   - ""
 series:
-  - NetworkProgramminInCPP
+  - network-programming
 ---
 If you are here, I assume you are familiar with the terms "network programming" and "socket programming". FYI, both these terms are used interchangeably as they are related concepts. Socket programming is a specific subset of network programming that focusses on communication between devices on different networks. It generally deals with the establishment, maintenance and termination of connections between applications. On the other hand, network programming is a much broader concept. It addresses the overall design and implementation of computer network infrastructures.
 
