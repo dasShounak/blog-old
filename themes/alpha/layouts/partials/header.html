@@ -1,0 +1,22 @@
+<header>
+    <div class="banner">
+        <h1 class="site__title">{{ .Site.Title }}</h1>
+        <div class="site__info">
+            {{ with .Site.Params.info }}
+            {{ range . }}
+            <h2 class="site__info__line">{{ . }}</h2>
+            {{ end }}
+            {{ end }}
+        </div>
+    </div>
+    <nav class="navbar">
+        <ul>
+            {{- range .Site.Menus.main }}
+            <li><a href="{{ .URL }}">
+                {{ .Name }}
+            </a></li>
+            {{- end }}
+
+        </ul>
+    </nav>
+</header>
